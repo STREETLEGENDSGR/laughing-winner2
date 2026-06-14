@@ -1,4 +1,3 @@
-# laughing-winner2
 street-legends-gr/
 │
 ├── index.html
